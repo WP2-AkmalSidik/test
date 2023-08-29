@@ -1,7 +1,18 @@
 * {
     background-color: palevioletred;
-    color:aqua;
+    color: aqua;
     font-size: x-large;
-    display:contents;
-    animation: alternate;
+    position: center ;
+
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: black;
+}
+h2:hover, h1:hover{
+    color: white;
 }
