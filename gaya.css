@@ -13,6 +13,19 @@ h1 {
 h2 {
     color: black;
 }
+.hai {
+    height: 100%;
+    margin-top: 80px;
+    margin-bottom: -70px;
+    /* margin-left: 90px; */
+    color: brown;
+}
 h2:hover, h1:hover{
     color: white;
+}
+.Coki h1{
+    position: center ;
+    color: yellowgreen;
+    height: 50px;
+    margin-top: 50px;
 }
